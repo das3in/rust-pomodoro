@@ -1,0 +1,1 @@
+{"rustc":16448434725525097460,"features":"[]","target":284397180614287502,"profile":731176819336294830,"deps":[["chrono v0.4.0",1574439870820485387],["timer v0.2.0",10841136891050632079]],"local":[{"MtimeBased":[[1514312887,320222953],"/home/carl/Documents/rust/tester/target/debug/.fingerprint/tester-0bc6a0a5d2c42dc7/dep-bin-tester-0bc6a0a5d2c42dc7"]}],"rustflags":[]}
