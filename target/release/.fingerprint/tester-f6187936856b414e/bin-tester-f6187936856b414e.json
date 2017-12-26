@@ -1,0 +1,1 @@
+{"rustc":16448434725525097460,"features":"[]","target":284397180614287502,"profile":8410117760005530537,"deps":[["chan v0.1.19",10251568350259596398],["clap v2.29.0",7615427725903756128]],"local":[{"MtimeBased":[[1514318211,602594666],"/home/carl/Documents/rust/tester/target/release/.fingerprint/tester-f6187936856b414e/dep-bin-tester-f6187936856b414e"]}],"rustflags":[]}
